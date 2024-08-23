@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "openapi.service.key",
+    "type": "java.lang.String",
+    "description": "A description for 'openapi.service.key'"
+  },
+  {
+    "name": "api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'api.url'"
+  },
+  {
+    "name": "spring.mvc.media-type.css",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mvc.media-type.css'"
+  },
+  {
+    "name": "spring.mvc.media-type.js",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mvc.media-type.js'"
+  },
+  {
+    "name": "spring.mvc.media-type.jpg",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mvc.media-type.jpg'"
+  },
+  {
+    "name": "spring.mvc.media-type.png",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mvc.media-type.png'"
+  }
+]}
